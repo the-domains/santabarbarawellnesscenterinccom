@@ -1,0 +1,65 @@
+layout_spectrum: 0.048390497220311274
+typography_spectrum: 0.12832633045502007
+color:
+  brandStrength: 0.475152448161164
+  lightness: 0.6880189095362836
+  saturation: 0.7881374345596253
+  rhythmicContrast: 0.5268454074115483
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+opengraph:
+  type: Alternative & Holistic Health
+  appId: 'https://www.facebook.com/SantaBarbaraWellnessCenterInc/'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6ce27bb-fe3e-4274-84e5-81c50fdd8c48.png
+author:
+  name: Dominique Hackett
+  email: santabarbarawellnesscenterinc@gmail.com
+  url: www.santabarbarawellnesscenterinc.com
+name: ' santabarbarawellnesscenterinc.com'
+title: Santa Barbara Wellness Center Inc.
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4077244d-12b6-4ce2-a4fd-a1bd91520ffb.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4077244d-12b6-4ce2-a4fd-a1bd91520ffb.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  SBWCI seeks the advancement of wellness education by providing doctors and
+  healthcare providers the means to reach our Santa Barbara County teens and
+  seniors to create healthy lifestyles.
+purpose:
+  - type: contact
+    url: 'tel:805-765-1008'
+    label: Call 805-765-1008
+  - type: contact
+    url: 'mailto:santabarbarawellnesscenterinc@gmail.com'
+    label: Contact us
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c9ce74-6c6b-45ad-b0ef-f9d2fc3936d8.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6f3946e-f9be-4f59-9e44-10892e7b3d64.png
