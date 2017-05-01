@@ -1,4 +1,3 @@
-layout_spectrum: 0.048390497220311274
 typography_spectrum: 0.12832633045502007
 color:
   brandStrength: 0.475152448161164
@@ -11,16 +10,26 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+github: true
 opengraph:
   type: Alternative & Holistic Health
   appId: 'https://www.facebook.com/SantaBarbaraWellnessCenterInc/'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6ce27bb-fe3e-4274-84e5-81c50fdd8c48.png
+layout_spectrum: 0.048390497220311274
 author:
   name: Dominique Hackett
   email: santabarbarawellnesscenterinc@gmail.com
   url: www.santabarbarawellnesscenterinc.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c9ce74-6c6b-45ad-b0ef-f9d2fc3936d8.png
 name: ' Santa Barbara Wellness Center, Inc. '
+navigation:
+  - name: Teen Sports Radio KZSB AM 1290
+    url: 'https://www.tsr.com'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6f3946e-f9be-4f59-9e44-10892e7b3d64.png
 title: Santa Barbara Wellness Center Inc.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -31,19 +40,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4077244d-12b6-4ce2-a4fd-a1bd91520ffb.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -58,8 +67,3 @@ purpose:
   - type: contact
     url: 'mailto:santabarbarawellnesscenterinc@gmail.com'
     label: Contact us
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c9ce74-6c6b-45ad-b0ef-f9d2fc3936d8.png
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6f3946e-f9be-4f59-9e44-10892e7b3d64.png
